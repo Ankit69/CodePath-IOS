@@ -26,7 +26,7 @@ GIF created with [Recordit](http://g.recordit.co/KM1PN7sF28.gif).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Connecting my Xcode to github was challenging. 
+Learning to use github was challenging. 
 
 ## License
 
