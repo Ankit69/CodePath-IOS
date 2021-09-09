@@ -30,7 +30,7 @@ Learning to use github was challenging.
 
 ## License
 
-    Copyright [yyyy] [Ankit Kafle]
+    Copyright [2021] [Ankit Kafle]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
